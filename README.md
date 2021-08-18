@@ -1,6 +1,6 @@
 ### Hi there, I'm Hernán
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hernobdr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%hernobdr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hernobdr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%hernobdr&screen_name=hernobdr)
 
 ## I'm an engineering student
 
