@@ -15,7 +15,7 @@
 [<img align="left" alt="eltuerta | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg">][reddit]
 [<img align="left" alt="Irioto | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg">][twitch]
 
-[current_project]: https://github.com/hernobdr/Final-Fantasy-XIV-DnD-Compendium 
+[current_project]: 
 [twitter]: https://twitter.com/hernobdr
 [reddit]: https://www.reddit.com/user/eltuerta/
 [twitch]: https://www.twitch.tv/irioto
